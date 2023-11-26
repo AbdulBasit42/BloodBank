@@ -5,13 +5,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "test": "echo \"error : no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mohd-Adil-JMI/e-Rakt.git"
   },
-  "author": "Soban Farooq",
+  "author": "Abdul Basit",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mohd-Adil-JMI/e-Rakt/issues"
